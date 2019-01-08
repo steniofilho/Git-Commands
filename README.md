@@ -5,7 +5,7 @@ _Uma lista de comandos comuns usados no Git_
 
 --
 
-### Clonando & Criando Projetps
+### Clonando & Criando Projetos
 
 | Comando | Descrição |
 | ------- | ----------- |
