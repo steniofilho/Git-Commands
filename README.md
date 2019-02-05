@@ -1,4 +1,4 @@
-Git Commands
+2. Git Commands
 ============
 
 _Uma lista de comandos comuns usados no Git_
